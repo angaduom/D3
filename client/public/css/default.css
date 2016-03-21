@@ -1,0 +1,14 @@
+body{
+  background-color: #f3f3f4;
+}
+.chart-bar{
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+.svg{
+  background-color: #f8f8f8;
+}
