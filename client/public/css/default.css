@@ -9,6 +9,10 @@ body{
   margin: 1px;
   color: white;
 }
-.svg{
-  background-color: #f8f8f8;
+
+.area {
+    stroke-width: 1px;
+    fill: blue;
+    opacity: 0.4;
+
 }

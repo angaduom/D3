@@ -2,4 +2,4 @@ var React = require('react');
 var ReactDOM = require('react-dom');
 var App = require('./components/app');
 
-ReactDOM.render(<App width={300} height={300}/>,document.getElementById('react'))
+ReactDOM.render(<App width={1000} height={500}/>,document.getElementById('react'))
